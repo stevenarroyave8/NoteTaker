@@ -1,6 +1,6 @@
 # NoteTaker
 ## About
-The purpose of this challenge was to create a simple to use note taking app that utilizes Node.js and Express.js to write and save notes. The application will use Express.js backend and will savbe and retrieve note data from a JSON file.
+The purpose of this challenge was to create a simple to use note taking app that utilizes Node.js and Express.js to write and save notes. The application will use Express.js backend and will save and retrieve note data from a JSON file.
 ### Installations
 Download or clone the repo then open the HTML file in the browser to open the note taker.
 #### Usage
@@ -8,11 +8,9 @@ Initialize visual studio code.
 
 Open the terminal on the main folder.
 
-Initialize a project with package.json by typing 'npm init -y' in the terminal.
+Initialize the application with node.js by running the server.js file and itll connect to the local host.
 
-Run npm install express 
+Open HTML file in browser to open note taker.
 
-Once in the repo open the HTML file in your browser
-
-You then connect to the local host and input the notes in your browser and once saved will update in real time in your terminal.
+Insert text as needed and once the save button is clicked itll update on the backend in visual studio.
 ##### Deployed Link
