@@ -15,6 +15,6 @@ Initialize the application with node.js by running the server.js file and itll c
 
 Open HTML file in browser to open note taker.
 
-Insert text as needed and once the save button is clicked itll update on the backend in visual studio.
+Insert text as needed and once the save button is clicked itll update on the backend, you can also delete the notes if they arent needed anymore.
 ##### Heroku Deployed Link
 https://captain-save-a-note-caa30583dd48.herokuapp.com/
